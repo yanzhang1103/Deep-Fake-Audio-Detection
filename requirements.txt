@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn>=1.3
+xgboost>=2.0
+tensorflow>=2.15
+shap>=0.45
+librosa>=0.10
+kagglehub
+jupyter
