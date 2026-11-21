@@ -7,7 +7,7 @@
 Voice-cloning tools can now produce speech that is hard to tell from the real thing. That makes fraud, impersonation and misinformation easier.
 This project tests whether **26 interpretable acoustic features** (MFCCs, spectral shape, energy, chroma) plus standard ML models can detect AI-generated speech. It then asks the harder question: **does the detector still work on audio from a different source?**
 
-<p align="center"><img src="assets/poster.jpg" width="520" alt="Project poster"></p>
+[513final Poster-2.pdf](https://github.com/user-attachments/files/35192475/513final.Poster-2.pdf)
 
 ## Key findings
 
