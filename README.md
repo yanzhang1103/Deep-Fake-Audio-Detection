@@ -2,12 +2,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yanzhang1103/Deep-Fake-Audio-Detection/blob/main/deepfake_audio_detection.ipynb)
 
-**Yan Zhang, Davi Dai** · Course project, PSYCH 186B
+**Yan Zhang, Davi Dai** · Course project, Managing Data and Signal Processing
 
 Voice-cloning tools can now produce speech that is hard to tell from the real thing. That makes fraud, impersonation and misinformation easier.
 This project tests whether **26 interpretable acoustic features** (MFCCs, spectral shape, energy, chroma) plus standard ML models can detect AI-generated speech. It then asks the harder question: **does the detector still work on audio from a different source?**
 
-<img width="752" height="1125" alt="Picture1" src="https://github.com/user-attachments/assets/0f26f128-89bf-464f-b66f-e2712af913cd" />
+<p align="center"><img src="assets/poster.jpg" width="520" alt="Project poster"></p>
 
 ## Key findings
 
